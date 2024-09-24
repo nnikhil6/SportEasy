@@ -14,6 +14,8 @@
 
 ![Screenshot 2024-09-25 005137](https://github.com/user-attachments/assets/9387ea8b-95e1-47d1-8bd5-1c3dd2ba630c)
 
+The overall resources stock present in the sports complex, increment and decrtement of resources can be done based on students requests is being handled by admin
+
 ![Screenshot 2024-09-25 004925](https://github.com/user-attachments/assets/566d74dd-c96c-40c0-89cc-0b463d3c7a88)
 
 
